@@ -1,1 +1,1 @@
-export default "https://salandt.dk/CA3";
+export default "https://ajuhlhansen.dk/CA3";
